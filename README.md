@@ -1,5 +1,5 @@
-# to.do | Ignite
- O projeto **to.do** é um site de lista de afazeres em que podemos adicionar, remover e marcar uma tarefa feita.
+# github-explorer | Ignite - ReactJS
+ O projeto **github-explorer** é um site que lista todos os repositórios do github de algum usuário por meio da API do github.
 <h2 align="center">to.do</h2>
 
 ___
@@ -22,7 +22,7 @@ ___
 
 ## :information_source: Sobre
 
-O projeto **to.do** é o 1º desafio técnico do bootcamp Ignite da Rocketseat em que treinamos o conceito e a prática do uso de Estado no Reactjs.
+O projeto **github-explorer** é a 1º página web com ReactJS em que completamos no bootcamp Ignite da trilha ReactJS da Rocketseat em que treinamos o conceito e a prática do uso de Estado no Reactjs junto com outros conceito básicos.
 
 * Página Inicial:
  
@@ -47,18 +47,12 @@ O projeto **to.do** é o 1º desafio técnico do bootcamp Ignite da Rocketseat e
 ___
 ## :interrobang: Motivo
 
-Esse projeto tem por objetivo por em prática os conceitos iniciais ensinados no curso **Ignite** de **Reactjs**. 
-
-Pretendo adicionar algumas funcionalidades no futuro como:
-1. Modo Noturno. 
-2. Pesquisa das tarefas.
-3. Edição dos nomes das tarefas.
-4. Paginação caso se tenha muitas tarefas adicionadas.
+Esse projeto tem por objetivo por em prática os conceitos iniciais de Estado, Componentização, Imutabilidade, uso de uma API externa, tipagem de dados, tranferência de dados e propriedades de um componente pai para um componente filho dentre outros conceitos de estruturação de um projeto ReactJS ensinados no curso **Ignite** da trilha **Reactjs**. 
 
 ___
 ## :seedling: Requisitos Mínimos
 
-Node.js, React e Typescript. 
+Node.js, Yarn(ou NPM), React e Typescript.
 
 ___
 ## :rocket: Tecnologias Utilizadas 
@@ -75,7 +69,7 @@ ___
 
   - Clonar o projeto:
     ```bash
-     git clone https://github.com/Aszurar/conceptsReactjsChallenge
+     git clone https://github.com/Aszurar/github-explorer.git
     ```
   - É necessário a instalação do yarn de acordo com seu sistema operacional, para isso veja como no site do [Yarn](https://classic.yarnpkg.com/blog/2017/05/12/introducing-yarn/)
   - Instalação das dependências:
