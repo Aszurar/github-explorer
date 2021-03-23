@@ -1,6 +1,6 @@
-# github-explorer | Ignite - ReactJS
+# Github Explorer | Ignite - ReactJS
  O projeto **github-explorer** é um site que lista todos os repositórios do github de algum usuário por meio da API do github.
-<h2 align="center">to.do</h2>
+<h2 align="center">Github Explorer</h2>
 
 ___
 
