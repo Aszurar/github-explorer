@@ -14,9 +14,9 @@ ___
 
 ___
 
-<div align="center" ><img src="https://media.giphy.com/media/nnk4pPrzQ40OehlPgE/giphy.gif" width="500"></div>
+<div align="center" ><img src="https://media.giphy.com/media/MXA87czObneQLHBF9W/giphy.gif" width="500"></div>
 
-- [**Link do vídeo completo sobre o projeto**](https://www.youtube.com/watch?v=v-HpkF7uTlc)
+- [**Link do vídeo completo sobre o projeto**](https://www.youtube.com/watch?v=j8JBdu0Ei6s)
 
 ___
 
@@ -26,24 +26,7 @@ O projeto **github-explorer** é a 1º página web com ReactJS em que completamo
 
 * Página Inicial:
  
-  <img src="https://i.imgur.com/8JWymCe.png" width="800"> 
-
-* Tarefas Adicionadas:
- 
-  <img src="https://i.imgur.com/if02D2p.png" width="800">
-
-* Tarefas Marcadas:
-  
-  <img src="https://i.imgur.com/GHEWxmh.png" width="800">
-
-* Aviso de não poder incluir uma tarefa sem título:
-  
-  <img src="https://i.imgur.com/Jf7uvy0.png" width="800">
-
-* Versão Mobile:
- 
-  <img src="https://i.imgur.com/yvQ2ayQ.png" width="300">___________<img src="https://i.imgur.com/O9ZtXvB.png" width="300">
-  
+  <img src="https://i.imgur.com/j34vYyz.png" width="800">   
 ___
 ## :interrobang: Motivo
 
